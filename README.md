@@ -3,9 +3,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase) ![Python](https://img.shields.io/badge/Python-AI-yellow?logo=python) ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📽️ Demo Animation  
-> 🎥 Replace this GIF with your own app screen recording later  
-![Demo Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZya3Qyd3R0dmFvZWJ0N2h6aG5qajRucXhqc3puam41MGRkbnU3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
 
 ## 📖 About the Project  
 SmartDairyERP+ is a **mobile-first, AI-powered multilingual ERP system** designed to help dairy farmers replace manual registers with a **simple, affordable, and intelligent app**.  
